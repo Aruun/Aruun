@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Arun Kumar Nagaraj,
 Data Engineer | AWS | Azure | Cloud | Blockchain | Python | Scala | Spark
 
-🌱 I’m currently learning Blockchain, Solidity, Azure, SageMaker
-💬 Ask me about AWS, Blockchain and Azure
+- 🌱 I’m currently learning Blockchain, Solidity, Azure, SageMaker.
+- 💬 Ask me about AWS, Blockchain and Azure
 
 
 
