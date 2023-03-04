@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Arun Kumar Nagaraj,
+Data Engineer | AWS | Azure | Cloud | Blockchain | Python | Scala | Spark
+
+🌱 I’m currently learning Blockchain, Solidity, Azure, SageMaker
+💬 Ask me about AWS, Blockchain and Azure
+
+
+
+
 
 <!--
 **Aruun/Aruun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
