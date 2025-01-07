@@ -55,10 +55,29 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 - [AWS UG Kochi - Sanooj Mananghat](https://www.linkedin.com/feed/update/urn:li:activity:7274717572292362240/)
 - [AWS UG Kochi - Sarika Jeevan](https://www.linkedin.com/feed/update/urn:li:activity:7275605544441102336/)
 
+---
 
 ### Active Certifications
 <img src="https://github.com/Aruun/Aruun/blob/main/sap.png" alt="rec" width="100" height="auto">
 <img src="https://github.com/Aruun/Aruun/blob/main/das_speciality.png" alt="rec" width="100" height="auto">
+
+---
+
+## Tech Stack
+
+### Cloud Services
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40">](https://aws.amazon.com) &nbsp; 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" alt="Azure" width="40" height="40">](https://azure.microsoft.com) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" alt="GCP" width="40" height="40">](https://cloud.google.com)
+
+### Programming Languages & Frameworks
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40">](https://www.python.org) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" height="40">](https://www.java.com) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scala.svg" alt="Scala" width="40" height="40">](https://www.scala-lang.org) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/solidity.svg" alt="Solidity" width="40" height="40">](https://soliditylang.org) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachekafka.svg" alt="Kafka" width="40" height="40">](https://kafka.apache.org) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apacheflink.svg" alt="Flink" width="40" height="40">](https://flink.apache.org)
 
 ---
 ### Connect with me:
