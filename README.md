@@ -1,10 +1,13 @@
 ### Hi there 👋 I am Arun Kumar Nagaraj,
-Data Engineer | AWS | Azure | Cloud | Blockchain | Python | Scala | Spark
+Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Scala | Spark
 
-- 🌱 I’m currently learning Blockchain, Solidity, Azure, SageMaker.
+- 🌱 Over 8 years of hands-on experience as a Lead engineer working on designing/developing the data pipeline for streaming as well as batch processing as prescribed by AWS best practices.  Worked on creating the data pipeline architecture for a new product that quickly scaled from 0 to 125000 daily active users.
+- Performed data modeling for various domains including healthcare, rental management, etc.,
 - 💬 Ask me about AWS, Blockchain and Azure
 
 
+### Meetups and online events
+### Assess Quality of Data using AWS Glue
 
 
 
