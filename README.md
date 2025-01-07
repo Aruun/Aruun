@@ -1,16 +1,20 @@
 ### Hi there 👋 I am Arun Kumar Nagaraj,
 Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Scala | Spark
 
-- 🌱 Over 8 years of hands-on experience as a Lead engineer working on designing/developing the data pipeline for streaming as well as batch processing as prescribed by AWS best practices.  Worked on creating the data pipeline architecture for a new product that quickly scaled from 0 to 125000 daily active users.
-- Performed data modeling for various domains including healthcare, rental management, etc.,
-- 💬 Ask me about AWS, Blockchain and Azure
+👋 Hi, I'm Arun Kumar N, an AWS Certified Solutions Architect - Professional with a passion for cloud computing, data engineering, and large language models (LLMs).  
+🚀 I specialize in designing scalable architectures, optimizing SQL queries, and building robust data pipelines using tools like AWS Glue, Spark, and Snowflake.  
+🌟 My expertise includes leveraging AWS services, fine-tuning AI models, and implementing data quality assessments in ETL workflows.  
+🎤 I've delivered talks at AWS Community Days and authored blogs on cutting-edge data solutions to empower developers and engineers.  
+📈 Constantly learning and sharing knowledge, I aim to create impactful solutions that bridge technology and business needs.  
+💬 Ask me about AWS, Azure, GenAI, DevOps, Blockchain and Azure
 
 
 ### Meetups and online events
 ### Assess the Quality of Data using AWS Glue
 
 ![alt text](https://github.com/Aruun/Aruun/blob/main/kochi.jpeg?raw=true)
-![Watch the video](https://www.youtube.com/watch?v=KYBnKW4_ESI)
+[Watch Video](https://www.youtube.com/watch?v=KYBnKW4_ESI)
+
 
 
 
