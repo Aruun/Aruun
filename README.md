@@ -33,9 +33,9 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 ### Other Events
 
 ### 1. Design Summit 2024 @ Rajalakshmi Engineering College - Sep 13 & 14 2024
-<img src="https://github.com/Aruun/Aruun/blob/main/rec.jpeg" alt="Glue bookmark Talk" width="600" height="auto">
-<img src="https://github.com/Aruun/Aruun/blob/main/rec1.jpeg" alt="Glue bookmark Talk" width="600" height="auto">
-<img src="https://github.com/Aruun/Aruun/blob/main/rec2.jpeg" alt="Glue bookmark Talk" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/rec.jpeg" alt="rec" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/rec1.jpeg" alt="rec" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/rec2.jpeg" alt="rec" width="600" height="auto">
 
 ### Blog Posts
 - [Enabling AWS Glue Data Quality](https://medium.com/@aruun1995/aws-glue-data-quality-e0a460ce321b)
@@ -48,6 +48,17 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 - [Ethereum Smart Contracts](https://medium.com/block-magnates/understanding-ethereum-smart-contracts-part-1-12662304f101)
 - [Storage Types in Apache Hudi](https://medium.com/@aruun1995/exploring-various-storage-types-in-apache-hudi-a3f0ab394a95)
 - [AWS DMS vs Azure DMS](https://medium.com/@aruun1995/aws-dms-vs-azure-dms-885bf9465342)
+
+### Direct Links To Latest Posts(2024):
+- [AWS User Group Kochi](https://www.linkedin.com/posts/awsugkochi_acdkochi24-aws-awscloud-activity-7273641780112211969-GJIq?utm_source=share&utm_medium=member_desktop)
+- [AWS User Group Hungary](https://www.linkedin.com/feed/update/urn:li:activity:7247914723717849089/)
+- [AWS UG Kochi - Sanooj Mananghat](https://www.linkedin.com/feed/update/urn:li:activity:7274717572292362240/)
+- [AWS UG Kochi - Sarika Jeevan](https://www.linkedin.com/feed/update/urn:li:activity:7275605544441102336/)
+
+
+### Active Certifications
+<img src="https://github.com/Aruun/Aruun/blob/main/sap.png" alt="rec" width="100" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/das_speciality.png" alt="rec" width="100" height="auto">
 
 ---
 ### Connect with me:
