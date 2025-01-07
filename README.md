@@ -35,6 +35,19 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 
 ---
 
+### Blog Posts
+- [Enabling AWS Glue Data Quality](https://medium.com/@aruun1995/aws-glue-data-quality-e0a460ce321b)
+- [Delta Lake on AWS Glue](https://medium.com/@aruun1995/delta-lake-on-aws-glue-c6a32ee99050)
+- [AWS Bedrock — End-to-End Image Generation using Stable Diffusion](https://medium.com/@aruun1995/aws-bedrock-end-to-end-image-generation-using-stable-diffusion-79ab1574f01f)
+- [Spark UI on AWS Glue](https://medium.com/@aruun1995/spark-ui-on-aws-glue-8c4eb6b87d68)
+- [Enabling Job Bookmarks in AWS Glue](https://medium.com/@aruun1995/steps-to-enable-job-bookmark-in-aws-glue-ffc077cadb4d)
+- [Integrating LLM with Real-time Data](https://medium.com/gopenai/integrating-llm-with-real-time-data-part-1-c93c38bd32e5)
+- [Hyperledger Fabric](https://medium.com/block-magnates/introduction-to-hyperledger-fabric-part-1-c8bb8627645d)
+- [Ethereum Smart Contracts](https://medium.com/block-magnates/understanding-ethereum-smart-contracts-part-1-12662304f101)
+- [Storage Types in Apache Hudi](https://medium.com/@aruun1995/exploring-various-storage-types-in-apache-hudi-a3f0ab394a95)
+- [AWS DMS vs Azure DMS](https://medium.com/@aruun1995/aws-dms-vs-azure-dms-885bf9465342)
+
+
 
 
 
