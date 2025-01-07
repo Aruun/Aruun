@@ -21,19 +21,21 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 <img src="https://github.com/Aruun/Aruun/blob/main/hungary2.jpeg" alt="stable diffusion Talk" width="600" height="auto">
 [Watch Video](https://www.youtube.com/watch?v=PrkDJeFESow&t=7950s)
 
-### 3. Integrate LLM with real time data @Global Azure 2024
-<img src="https://github.com/Aruun/Aruun/blob/main/azure1.jpeg" alt="stable diffusion Talk" width="600" height="auto">
-<img src="https://github.com/Aruun/Aruun/blob/main/azure2.jpeg" alt="stable diffusion Talk" width="600" height="auto">
-
-
-### 4. AWS Glue: Incremental data processing & Dynamically scale the worker nodes @ AWS Community Day Hungary 2023
+### 3. AWS Glue: Incremental data processing & Dynamically scale the worker nodes @ AWS Community Day Hungary 2023
 <img src="https://github.com/Aruun/Aruun/blob/main/hungary_2023.png" alt="Glue bookmark Talk" width="600" height="auto">
 [Watch Video](https://www.youtube.com/watch?v=k_oDg0XMRnQ&t=9169s)
 
-### 5. AWS Glue: Incremental data processing & Dynamically scale the worker nodes @ AWS Community Day Hyderabad 2023
+### 4. AWS Glue: Incremental data processing & Dynamically scale the worker nodes @ AWS Community Day Hyderabad 2023
 <img src="https://github.com/Aruun/Aruun/blob/main/hyderabad2023.jpeg" alt="Glue bookmark Talk" width="600" height="auto">
 
 ---
+
+### Other Events
+
+### 1. Design Summit 2024 @ Rajalakshmi Engineering College - Sep 13 & 14 2024
+<img src="https://github.com/Aruun/Aruun/blob/main/rec.jpeg" alt="Glue bookmark Talk" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/rec1.jpeg" alt="Glue bookmark Talk" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/rec2.jpeg" alt="Glue bookmark Talk" width="600" height="auto">
 
 ### Blog Posts
 - [Enabling AWS Glue Data Quality](https://medium.com/@aruun1995/aws-glue-data-quality-e0a460ce321b)
