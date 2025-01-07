@@ -7,7 +7,10 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 
 
 ### Meetups and online events
-### Assess Quality of Data using AWS Glue
+### Assess the Quality of Data using AWS Glue
+
+![alt text](https://github.com/Aruun/Aruun/blob/main/kochi.jpeg?raw=true)
+![Watch the video](https://www.youtube.com/watch?v=KYBnKW4_ESI)
 
 
 
