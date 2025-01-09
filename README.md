@@ -52,6 +52,7 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 ---
 
 ### Direct Links To Latest Posts(2024):
+- [AWS Certification - Naveen Chandar B](https://www.linkedin.com/posts/naveenchandarb_aws-solutionsarchitectprofessional-activity-7282971836538089472--fdH/?utm_source=share&utm_medium=member_desktop)
 - [AWS User Group Kochi](https://www.linkedin.com/posts/awsugkochi_acdkochi24-aws-awscloud-activity-7273641780112211969-GJIq?utm_source=share&utm_medium=member_desktop)
 - [AWS User Group Hungary](https://www.linkedin.com/feed/update/urn:li:activity:7247914723717849089/)
 - [AWS UG Kochi - Sanooj Mananghat](https://www.linkedin.com/feed/update/urn:li:activity:7274717572292362240/)
