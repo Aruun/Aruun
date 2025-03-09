@@ -52,12 +52,14 @@ Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Sca
 ---
 
 ### Direct Links To Latest Posts(2024):
+- [Blockathon Jury - Sri Eshwar College of Engineering](https://www.linkedin.com/posts/srieshwar_blockathon-a-power-packed-blockchain-and-activity-7299994166594260993-FvXH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [AWS Certification - Naveen Chandar B](https://www.linkedin.com/posts/naveenchandarb_aws-solutionsarchitectprofessional-activity-7282971836538089472--fdH/?utm_source=share&utm_medium=member_desktop)
 - [AWS User Group Kochi](https://www.linkedin.com/posts/awsugkochi_acdkochi24-aws-awscloud-activity-7273641780112211969-GJIq?utm_source=share&utm_medium=member_desktop)
 - [AWS User Group Hungary](https://www.linkedin.com/feed/update/urn:li:activity:7247914723717849089/)
 - [AWS UG Kochi - Sanooj Mananghat](https://www.linkedin.com/feed/update/urn:li:activity:7274717572292362240/)
 - [AWS UG Kochi - Sarika Jeevan](https://www.linkedin.com/feed/update/urn:li:activity:7275605544441102336/)
-- [Kummarguru School of Innovation](https://www.linkedin.com/feed/update/urn:li:activity:7300751957059674112/)
+- [Kumarguru School of Innovation](https://www.linkedin.com/feed/update/urn:li:activity:7300751957059674112/)
+  
 
 ---
 
