@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Arun Kumar Nagaraj,
-Lead Engineer - Data Practices | AWS | Azure | Cloud | Blockchain | Python | Scala | Spark
+AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | DevOps | Blockchain | Python | Scala | Spark
 
 👋 Working Professional with over 8 years of experience with a passion for cloud computing, data engineering, and large language models (LLMs).  
 🚀 I specialize in designing scalable architectures, optimizing SQL queries, and building robust data pipelines using tools like AWS Glue, Spark, and Snowflake.  
