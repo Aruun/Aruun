@@ -32,12 +32,21 @@ AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | D
 
 ### Other Events
 
-### 1. Design Summit 2024 @ Rajalakshmi Engineering College - Sep 13 & 14 2024
+### 1. Hack-A-Cloud 3.0 @ St.Joseph's Institute of Technology - Mar 25 2025
+<img src="https://github.com/Aruun/Aruun/blob/main/hack_a_cloud_1.jpeg" alt="rec" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/hack_a_cloud_2.jpeg" alt="rec" width="600" height="auto">
+
+### 2. Thiran 2025 @ Sri Eshwar College of Engineering - Feb 20 2025
+<img src="https://github.com/Aruun/Aruun/blob/main/thiran_2025_1.jpeg" alt="rec" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/thiran_2025_2.jpeg" alt="rec" width="600" height="auto">
+
+### 3. Design Summit 2024 @ Rajalakshmi Engineering College - Sep 13 & 14 2024
 <img src="https://github.com/Aruun/Aruun/blob/main/rec.jpeg" alt="rec" width="600" height="auto">
 <img src="https://github.com/Aruun/Aruun/blob/main/rec1.jpeg" alt="rec" width="600" height="auto">
 <img src="https://github.com/Aruun/Aruun/blob/main/rec2.jpeg" alt="rec" width="600" height="auto">
 
 ### Blog Posts
+- [MLFlow on AWS Sagemaker Vs AWS EC2](https://medium.com/@aruun1995/mlflow-on-aws-ec2-server-vs-mlflow-on-aws-sagemaker-ai-3b0ccf1d23d9)
 - [Enabling AWS Glue Data Quality](https://medium.com/@aruun1995/aws-glue-data-quality-e0a460ce321b)
 - [Delta Lake on AWS Glue](https://medium.com/@aruun1995/delta-lake-on-aws-glue-c6a32ee99050)
 - [AWS Bedrock — End-to-End Image Generation using Stable Diffusion](https://medium.com/@aruun1995/aws-bedrock-end-to-end-image-generation-using-stable-diffusion-79ab1574f01f)
@@ -51,7 +60,7 @@ AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | D
 
 ---
 
-### Direct Links To Latest Posts(2024):
+### Direct Links To Latest Posts(2025):
 - [Hack-A-Cloud 3.0 Jury - St.Joseph's Insitute of Technology](https://www.linkedin.com/posts/pep-cloud-computing-and-devops-centre_%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A4-%F0%9D%90%80-%F0%9D%90%82%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%9D-%F0%9D%9F%91%F0%9D%9F%8E-%F0%9D%90%80-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-activity-7310715456082862080--ckM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [Hack-A-Cloud 3.0 - Thomas Albert Iwin](https://www.linkedin.com/feed/update/urn:li:ugcPost:7310715454400962560?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7310715454400962560%2C7310844377285701632%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287310844377285701632%2Curn%3Ali%3AugcPost%3A7310715454400962560%29)
 - [Blockathon Jury - Sri Eshwar College of Engineering](https://www.linkedin.com/posts/srieshwar_blockathon-a-power-packed-blockchain-and-activity-7299994166594260993-FvXH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
