@@ -34,7 +34,7 @@ AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | D
 
 ### 1. Hack-A-Cloud 3.0 @ St.Joseph's Institute of Technology - Mar 25 2025
 <img src="https://github.com/Aruun/Aruun/blob/main/hack_a_cloud_1.jpeg" alt="rec" width="600" height="auto">
-<img src="https://github.com/Aruun/Aruun/blob/main/hack_a_cloud_2.jpeg" alt="rec" width="600" height="auto">
+<img src="https://github.com/Aruun/Aruun/blob/main/hack_a_cloud_2.jpg" alt="rec" width="600" height="auto">
 
 ### 2. Thiran 2025 @ Sri Eshwar College of Engineering - Feb 20 2025
 <img src="https://github.com/Aruun/Aruun/blob/main/thiran_2025_1.jpeg" alt="rec" width="600" height="auto">
