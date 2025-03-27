@@ -52,6 +52,7 @@ AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | D
 ---
 
 ### Direct Links To Latest Posts(2024):
+- [Hack-A-Cloud 3.0 Jury - St.Joseph's Insitute of Technology](https://www.linkedin.com/posts/pep-cloud-computing-and-devops-centre_%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A4-%F0%9D%90%80-%F0%9D%90%82%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%9D-%F0%9D%9F%91%F0%9D%9F%8E-%F0%9D%90%80-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-activity-7310715456082862080--ckM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [Blockathon Jury - Sri Eshwar College of Engineering](https://www.linkedin.com/posts/srieshwar_blockathon-a-power-packed-blockchain-and-activity-7299994166594260993-FvXH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [Blockathon - Rahul R](https://www.linkedin.com/posts/rahul-r-578632306_blockchain-blockchaintech-hackathons-activity-7300569080481107969-Gn1v?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [AWS Certification - Naveen Chandar B](https://www.linkedin.com/posts/naveenchandarb_aws-solutionsarchitectprofessional-activity-7282971836538089472--fdH/?utm_source=share&utm_medium=member_desktop)
