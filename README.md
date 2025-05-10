@@ -61,6 +61,7 @@ AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | D
 ---
 
 ### Direct Links To Latest Posts(2025):
+- [AWS Summit - Bangalore 2025](https://www.linkedin.com/feed/update/urn:li:activity:7326548128076124163/)
 - [Hack-A-Cloud 3.0 Jury - St.Joseph's Insitute of Technology](https://www.linkedin.com/posts/pep-cloud-computing-and-devops-centre_%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A4-%F0%9D%90%80-%F0%9D%90%82%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%9D-%F0%9D%9F%91%F0%9D%9F%8E-%F0%9D%90%80-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-activity-7310715456082862080--ckM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [Hack-A-Cloud 3.0 - Thomas Albert Iwin](https://www.linkedin.com/feed/update/urn:li:ugcPost:7310715454400962560?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7310715454400962560%2C7310844377285701632%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287310844377285701632%2Curn%3Ali%3AugcPost%3A7310715454400962560%29)
 - [Blockathon Jury - Sri Eshwar College of Engineering](https://www.linkedin.com/posts/srieshwar_blockathon-a-power-packed-blockchain-and-activity-7299994166594260993-FvXH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
