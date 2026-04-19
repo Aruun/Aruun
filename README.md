@@ -11,6 +11,25 @@ AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | D
 ---
 
 ### Meetups and online events
+### 2025
+### 1. From Storage to Strategy: Integrating S3 tables with AWS Glue for Business Success @AWS Summit Bengaluru 2025
+<img src="https://github.com/Aruun/Aruun/blob/main/summit_image.jpeg" alt="AWS Summit Talk" width="600" height="auto">
+
+### 2. Data Quality as Code: Integrating Glue DQ into CI/CD Workflows @AWS Cloud Community Gathering 
+<img src="https://github.com/Aruun/Aruun/blob/main/aws_cloud_community_gathering.png" alt="AWS Cloud Talk" width="600" height="auto">
+[Watch Video](https://www.youtube.com/watch?v=InSdt44os3E&t=35m)
+
+### 3. Predictive Analytics on AWS @ VIT Vellore
+<img src="https://github.com/Aruun/Aruun/blob/main/vit_vellore.jpeg" alt="AWS Panimalar Talk" width="600" height="auto">
+
+### 4. Amazon Q Developer Session @AWS Cloud Club - Panimalar Engineering College 
+<img src="https://github.com/Aruun/Aruun/blob/main/panimalar.jpeg" alt="AWS Panimalar Talk" width="600" height="auto">
+
+### 5. AWS Data Analytics Fundamentals 3-day Workshop @ VelTech Engineering College 
+<img src="https://github.com/Aruun/Aruun/blob/main/veltech.jpg" alt="AWS Panimalar Talk" width="600" height="auto">
+
+
+### 2024 and Older
 ### 1. Assess the Quality of Data using AWS Glue @AWS Community Day Kochi 2024
 
 <img src="https://github.com/Aruun/Aruun/blob/main/kochi.jpeg" alt="AWS Glue Data Quality Talk" width="600" height="auto">
