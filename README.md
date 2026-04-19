@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Arun Kumar Nagaraj,
-AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | DevOps | Blockchain | Python | Scala | Spark
+AWS Community Builder | Manager, Engineering | AWS | Azure | Cloud | DevOps | Blockchain | Python | Scala | Spark
 
-👋 Working Professional with over 8 years of experience with a passion for cloud computing, data engineering, and large language models (LLMs).  
+👋 Working Professional with over 9 years of experience with a passion for cloud computing, data engineering, and large language models (LLMs).  
 🚀 I specialize in designing scalable architectures, optimizing SQL queries, and building robust data pipelines using tools like AWS Glue, Spark, and Snowflake.  
 🌟 My expertise includes leveraging AWS services, fine-tuning AI models, and implementing data quality assessments in ETL workflows.  
 🎤 I've delivered talks at AWS Community Days and authored blogs on cutting-edge data solutions to empower developers and engineers.  
@@ -11,6 +11,20 @@ AWS Community Builder | Lead Engineer - Data Practices | AWS | Azure | Cloud | D
 ---
 
 ### Meetups and online events
+### 2026
+### 1. One of the Core Organizers @ AWS Community Day - Chennai 2026
+<img src="https://github.com/Aruun/Aruun/blob/main/acdchennai.png" alt="AWS Summit Talk" width="600" height="auto">
+
+### 1. Technical topic on AWS Glue @ Builders Skill Sprint AWS User Group - Madurai
+<img src="https://github.com/Aruun/Aruun/blob/main/mdu-aws.jpeg" alt="AWS Summit Talk" width="600" height="auto">
+
+### 3. AWS Cloud Club Inauguration @ Rajalakshmi Engineering College - Chennai
+<img src="https://github.com/Aruun/Aruun/blob/main/rec-cloud-club.jpeg" alt="AWS Summit Talk" width="600" height="auto">
+
+### 4. AWS Cloud Club Inauguration @ Kalasalingam University (KARE) - Srivilliputhur
+<img src="https://github.com/Aruun/Aruun/blob/main/kare-cloud-club.jpeg" alt="AWS Summit Talk" width="600" height="auto">
+
+
 ### 2025
 ### 1. From Storage to Strategy: Integrating S3 tables with AWS Glue for Business Success @AWS Summit Bengaluru 2025
 <img src="https://github.com/Aruun/Aruun/blob/main/summit_image.jpeg" alt="AWS Summit Talk" width="600" height="auto">
