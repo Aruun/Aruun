@@ -96,6 +96,8 @@ AWS Community Builder | Manager, Engineering | AWS | Azure | Cloud | DevOps | Bl
 ---
 
 ### Direct Links To Latest Posts(2025):
+- [AWS Community Builder - Sai Purushoth](https://www.linkedin.com/posts/sai-purushoth-0642871b7_awscommunitybuilder-aws-data-activity-7437726281410043905-P-bj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
+- [AWS Community Builder - Vikneswara RB](https://www.linkedin.com/posts/vikneshwararb_awscommunitybuilders-aws-dataengineering-activity-7438456745523384320-_-4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [AWS Summit - Bangalore 2025](https://www.linkedin.com/feed/update/urn:li:activity:7326548128076124163/)
 - [Hack-A-Cloud 3.0 Jury - St.Joseph's Insitute of Technology](https://www.linkedin.com/posts/pep-cloud-computing-and-devops-centre_%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A4-%F0%9D%90%80-%F0%9D%90%82%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%9D-%F0%9D%9F%91%F0%9D%9F%8E-%F0%9D%90%80-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-activity-7310715456082862080--ckM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhQWtkBIXxJLxQ2oevj_aenGzUuuhJSLdE)
 - [Hack-A-Cloud 3.0 - Thomas Albert Iwin](https://www.linkedin.com/feed/update/urn:li:ugcPost:7310715454400962560?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7310715454400962560%2C7310844377285701632%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287310844377285701632%2Curn%3Ali%3AugcPost%3A7310715454400962560%29)
