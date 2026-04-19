@@ -16,7 +16,7 @@ AWS Community Builder | Manager, Engineering | AWS | Azure | Cloud | DevOps | Bl
 <img src="https://github.com/Aruun/Aruun/blob/main/acdchennai.png" alt="AWS Summit Talk" width="600" height="auto">
 [Website Link] (https://www.acdchennai.com/)
 
-### 2. Technical topic on AWS Glue @ Builders Skill Sprint AWS User Group - Madurai
+### 2. Smart ETL with AWS Glue @ Builders Skill Sprint AWS User Group - Madurai
 <img src="https://github.com/Aruun/Aruun/blob/main/mdu-aws.jpeg" alt="AWS Summit Talk" width="600" height="auto">
 [Watch Video] (https://www.youtube.com/watch?v=9HN6oWJBHtc&t=3900s)
 
