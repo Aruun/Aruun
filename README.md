@@ -17,6 +17,7 @@ AWS Community Builder | Manager, Engineering | AWS | Azure | Cloud | DevOps | Bl
 
 ### 2. Technical topic on AWS Glue @ Builders Skill Sprint AWS User Group - Madurai
 <img src="https://github.com/Aruun/Aruun/blob/main/mdu-aws.jpeg" alt="AWS Summit Talk" width="600" height="auto">
+[Watch Video] (https://www.youtube.com/watch?v=9HN6oWJBHtc&t=3900s)
 
 ### 3. AWS Cloud Club Inauguration @ Rajalakshmi Engineering College - Chennai
 <img src="https://github.com/Aruun/Aruun/blob/main/rec-cloud-club.jpeg" alt="AWS Summit Talk" width="600" height="auto">
