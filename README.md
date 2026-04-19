@@ -14,6 +14,7 @@ AWS Community Builder | Manager, Engineering | AWS | Azure | Cloud | DevOps | Bl
 ### 2026
 ### 1. One of the Core Organizers @ AWS Community Day - Chennai 2026
 <img src="https://github.com/Aruun/Aruun/blob/main/acdchennai.png" alt="AWS Summit Talk" width="600" height="auto">
+[Website Link] (https://www.acdchennai.com/)
 
 ### 2. Technical topic on AWS Glue @ Builders Skill Sprint AWS User Group - Madurai
 <img src="https://github.com/Aruun/Aruun/blob/main/mdu-aws.jpeg" alt="AWS Summit Talk" width="600" height="auto">
